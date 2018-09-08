@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library1/PerformanceCounter.fs">
+    <Files>
+      <File FileName="Library1/AbstractClass.fs" Line="7" Column="41" />
+      <File FileName="Library1/FindAndFilter.fs" Line="25" Column="26" />
+      <File FileName="Library1/App.config" Line="12" Column="44" />
+      <File FileName="Library1/ConfigTest.fs" Line="10" Column="42" />
+      <File FileName="Library1/PerformanceCounter.fs" Line="16" Column="111" />
+      <File FileName="Library1/fruits.xml" Line="6" Column="10" />
+      <File FileName="Library1/Fruits.fs" Line="11" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Library1" expanded="True">
+            <Node name="Library1" expanded="True">
+              <Node name="PerformanceCounter.fs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

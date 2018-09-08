@@ -1,0 +1,5 @@
+/Applications/XAMPP/xamppfiles/htdocs/f#-tuts/Library1/Library1/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.fs
+/Applications/XAMPP/xamppfiles/htdocs/f#-tuts/Library1/Library1/bin/Debug/Library1.dll.mdb
+/Applications/XAMPP/xamppfiles/htdocs/f#-tuts/Library1/Library1/bin/Debug/Library1.dll
+/Applications/XAMPP/xamppfiles/htdocs/f#-tuts/Library1/Library1/obj/Debug/Library1.dll
+/Applications/XAMPP/xamppfiles/htdocs/f#-tuts/Library1/Library1/obj/Debug/Library1.dll.mdb
